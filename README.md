@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Srushti Bhalekar
 
 ### 💻  Java Developer | Backend & Database Enthusiast
-
-🎓 Information Technology Engineering Student  
+🎓 B.E. in Information Technology Graduate 
 📍 Pune, India  
 🚀 Building practical applications with **Java, PostgreSQL & Spring Boot**  
 📚 Currently strengthening **DSA, Java, JDBC & Backend Development**
