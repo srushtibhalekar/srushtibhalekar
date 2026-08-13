@@ -104,42 +104,7 @@ managing auction-related activities.
 
 ---
 
-## 📚 Currently Learning
 
-- ☕ Strengthening **Core Java & OOP**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🗄️ Improving **PostgreSQL & SQL**
-- 🔌 Building applications using **JDBC**
-- 🌱 Learning **Spring Boot**
-- 🔗 Understanding **REST APIs**
-- 🐙 Improving **Git & GitHub**
-
----
-
-## 📈 GitHub Activity
-
-I believe in **consistent learning, building practical projects,
-and making meaningful contributions**.
-
-📌 Building Java projects  
-📌 Practicing DSA problems  
-📌 Working with PostgreSQL  
-📌 Learning backend development  
-📌 Improving Git & GitHub skills
-
----
-
-## 🏆 Goals
-
-- 🎯 Become a strong **Java Developer**
-- 💻 Build practical backend applications
-- 🧠 Improve DSA and problem-solving skills
-- 🗄️ Strengthen database and SQL knowledge
-- 🌱 Learn Spring Boot deeply
-- 🌍 Contribute to open-source projects
-- 🚀 Start my career as a Software Developer
-
----
 
 ## 🤝 Let's Connect
 
