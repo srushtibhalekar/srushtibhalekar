@@ -106,22 +106,23 @@
 ## 📊 My Coding Journey
 
 <p align="center">
+  <a href="https://github.com/srushtibhalekar">
+    <img src="https://img.shields.io/badge/GitHub-srushtibhalekar-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/srushtibhalekar">
-<img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&hide_border=true&count_private=true" width="48%" />
-</a>
-
-<a href="https://github.com/srushtibhalekar">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtibhalekar&layout=compact&hide_border=true" width="48%" />
-</a>
-
+<p align="center">
+  💻 Building projects &nbsp; • &nbsp;
+  📚 Learning Java &nbsp; • &nbsp;
+  🚀 Improving Every Day
 </p>
 
 <p align="center">
   <a href="https://github.com/srushtibhalekar?tab=repositories">
-    🚀 Explore My Repositories
+    🚀 <b>Explore My Repositories →</b>
   </a>
 </p>
+
 
 
 ## 🏆 Achievements & Learning
