@@ -1,225 +1,214 @@
-<div align="center">
+# ✨ Hi, I'm Srushti Bhalekar
 
-# ✦ Srushti Bhalekar ✦
+### 💻 Aspiring Java Developer | Backend & Database Enthusiast
 
-### Java Developer · Backend Developer · Software Engineer
-
-<p>
-  <em>
-    Turning ideas into practical software solutions.
-  </em>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Backend+Development+Enthusiast;Building+Projects+with+Java+%26+PostgreSQL;Learning+%7C+Building+%7C+Improving" />
 </p>
 
-<br/>
-
-<a href="https://bhalekarsrushtiportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20My%20Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/srushtibhalekar">
-  <img src="https://img.shields.io/badge/GITHUB-View%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=srushtibhalekar&style=flat-square&color=8B5CF6&label=PROFILE+VIEWS"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/srushtibhalekar">
+    <img src="https://komarev.com/ghpvc/?username=srushtibhalekar&label=Profile%20Views&color=6C63FF&style=flat" />
+  </a>
+</p>
 
 ---
 
-<div align="center">
+## 🌷 About Me
 
-## `01` · ABOUT ME
+🎓 **Bachelor of Engineering – Information Technology**
 
-</div>
+💻 Passionate about **Java, Backend Development & Databases**
 
-Hi, I'm **Srushti Bhalekar**, an **Information Technology Engineering graduate** passionate about software development and backend engineering.
+🌱 Currently strengthening my skills in **Advanced Java, JDBC, Servlets, JSP & PostgreSQL**
 
-I enjoy building practical applications, working with databases, solving programming problems, and continuously improving my development skills.
+🧩 Interested in building **real-world backend applications**
 
-My primary focus is **Java Backend Development**, with hands-on learning in Java, JDBC, Servlets, JSP, Spring, Spring Boot, Hibernate, PostgreSQL, REST APIs and Microservices.
+🚀 Focused on becoming a **strong Java Full Stack Developer**
+
+📚 I believe in learning by **building projects and solving problems**
+
+💡 *Code. Learn. Build. Improve. Repeat.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python" />
+</p>
+
+### 🌐 Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### ⚙️ Backend & Java Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,tomcat" />
+</p>
+
+**Core Java • OOP • JDBC • Servlets • JSP • Advanced Java**
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+</p>
+
+**PostgreSQL • SQL • Database Design • JDBC Connectivity**
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+### 🏫 Smart Campus ERP & Placement Ecosystem
+
+> A Java-based campus management system designed to manage academic, student and placement-related activities.
+
+**Tech:** `Core Java` `OOP` `JDBC` `PostgreSQL` `Spring Boot`
+
+🔗 **Project:** [View Repository](https://github.com/srushtibhalekar)
+
+---
+
+### 🏷️ Online Campus Network Auction System
+
+> A web-based auction platform designed to allow users to participate in online campus auctions.
+
+**Tech:** `HTML` `CSS` `Node.js` `Express.js` `MongoDB`
+
+🔗 **Project:** [View Repository](https://github.com/srushtibhalekar)
+
+---
+
+### 🌐 Personal Portfolio
+
+> A personal developer portfolio showcasing my skills, projects and learning journey.
+
+**Tech:** `HTML` `CSS` `GitHub`
+
+🔗 **GitHub:** [@srushtibhalekar](https://github.com/srushtibhalekar)
+
+---
+
+## 📚 Currently Learning
 
 ```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   💻  Focus        Java & Backend Development            │
-│   🗄️  Database     PostgreSQL                           │
-│   🌐  Web          HTML · CSS · JSP · Servlets          │
-│   ⚙️  Frameworks   Spring · Spring Boot · Hibernate     │
-│   🏗️  Architecture Microservices                        │
-│   🔧  Tools        Git · GitHub · VS Code               │
-│                                                          │
+Java
+ ├── Core Java
+ ├── OOP
+ ├── Collections
+ ├── Exception Handling
+ ├── File Handling
+ ├── Multithreading
+ └── Advanced Java
+      ├── JDBC
+      ├── Servlets
+      └── JSP
 
-<div align="center">
-02 · TECH STACK
-</div>
-💻 Languages
-<p> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> </p>
-🌐 Web Technologies
-<p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JSP-000000?style=flat-square"/> <img src="https://img.shields.io/badge/Servlets-5382A1?style=flat-square"/> </p>
-☕ Backend & Frameworks
-<p> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Microservices-4B8BBE?style=flat-square"/> </p>
-🗄️ Database & Persistence
-<p> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/JDBC-Database-orange?style=flat-square"/> <img src="https://img.shields.io/badge/JPA-Persistence-59666C?style=flat-square"/> </p>
-🛠️ Tools
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> </p>
-<div align="center">
-03 · FEATURED PROJECTS
-</div>
-🏫 Smart Campus ERP & Placement Ecosystem
+Database
+ └── PostgreSQL
 
-A campus management and placement ecosystem for managing student, academic, administrative and placement-related operations.
+Web
+ ├── HTML
+ └── CSS
 
-✦ Highlights
-👨‍🎓 Student Management
-👨‍💼 Admin Management
-📚 Academic Management
-💼 Placement Management
-🔗 REST API Integration
-🗄️ PostgreSQL Database Integration
-🔄 CRUD Operations
-🧩 Backend Business Logic
-✦ Built With
+Problem Solving
+ └── Data Structures & Algorithms
+```
 
-Core Java Spring Boot PostgreSQL JPA REST APIs
+---
 
-🔗 Repository
+## 📈 My Coding Journey
 
-→ View Smart Campus Project
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtibhalekar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
-🏦 Banking Management System
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srushtibhalekar&theme=tokyonight&hide_border=true" />
+</p>
 
-A Java-based banking application implementing essential banking operations with PostgreSQL database connectivity.
+---
 
-✦ Highlights
-Create Account
-View All Accounts
-Deposit Money
-Withdraw Money
-Delete Account
-CRUD Operations
-JDBC Connectivity
-PostgreSQL Persistence
-✦ Built With
+## 🏆 Achievements & Learning
 
-Core Java OOP JDBC PostgreSQL
+🏅 **Edunet Foundation – MERN Stack Development Internship**
 
-🔗 Repository
+🏅 **Fortune Cloud – Java Full Stack Development**
 
-→ View Banking Management System
+🏅 **Rubicon Foundation – Future Skills Program**
 
+🏅 **Mahindra Pride Classroom – Employability Training**
 
-<div align="center">
-04 · DEVELOPMENT JOURNEY
-</div>
-                         JAVA DEVELOPMENT
-                                │
-                                ▼
-                        ┌──────────────┐
-                        │  CORE JAVA   │
-                        └──────┬───────┘
-                               │
-                               ▼
-                        ┌──────────────┐
-                        │     OOP      │
-                        └──────┬───────┘
-                               │
-                               ▼
-                        ┌──────────────┐
-                        │ JDBC + SQL   │
-                        └──────┬───────┘
-                               │
-                               ▼
-                      ┌─────────────────┐
-                      │  SERVLETS + JSP │
-                      └────────┬────────┘
-                               │
-                               ▼
-                        ┌──────────────┐
-                        │    SPRING    │
-                        └──────┬───────┘
-                               │
-                               ▼
-                      ┌─────────────────┐
-                      │   SPRING BOOT   │
-                      └────────┬────────┘
-                               │
-                               ▼
-                      ┌─────────────────┐
-                      │ HIBERNATE / JPA │
-                      └────────┬────────┘
-                               │
-                               ▼
-                        ┌──────────────┐
-                        │  REST APIs   │
-                        └──────┬───────┘
-                               │
-                               ▼
-                      ┌─────────────────┐
-                      │  MICROSERVICES  │
-                      └─────────────────┘
-<div align="center">
-05 · CURRENTLY LEARNING
-</div>
-Area	Focus
-☕ Java	Core Java, OOP, Collections, Exception Handling
-🧩 DSA	Problem Solving & Logical Thinking
-🗄️ PostgreSQL	SQL, Queries, Database Design
-🔗 JDBC	Database Connectivity & CRUD
-🌐 Java Web	Servlets & JSP
-🌱 Spring	Spring Framework & Core Concepts
-🚀 Spring Boot	REST API & Backend Development
-💾 Hibernate	ORM & JPA
-🏗️ Microservices	Distributed Backend Architecture
-🔧 Git	Version Control & GitHub
-<div align="center">
-06 · EDUCATION
-</div>
-🎓 Bachelor of Engineering — Information Technology
+🏅 **Smart India Hackathon 2025 – Participant**
 
-Zeal College of Engineering & Research, Pune
+📄 **Research Paper Publication**
 
-2022 — 2026
+💻 **BE Project Competition – ITSA Participant**
 
+---
 
+## 🎯 2026 Goals
 
-<div align="center">
-09 · PORTFOLIO
-<br/> <p> Explore my complete portfolio to see my projects, skills, education, achievements and development journey. </p> <br/> <a href="https://bhalekarsrushtiportfolio.netlify.app/"> <img src="https://img.shields.io/badge/✦_EXPLORE_MY_PORTFOLIO-8B5CF6?style=for-the-badge&labelColor=111827"/> </a> </div>
-<div align="center">
-10 · GITHUB
-<br/> <img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+* [x] Complete Bachelor of Engineering
+* [ ] Strengthen Advanced Java
+* [ ] Master JDBC & Servlets
+* [ ] Build more Java + PostgreSQL projects
+* [ ] Improve DSA & problem-solving
+* [ ] Contribute to Open Source
+* [ ] Build a strong GitHub portfolio
+* [ ] Become a confident Java Developer
 
-<br/><br/>
+---
 
-<img src="https://streak-stats.demolab.com?user=srushtibhalekar&theme=tokyonight&hide_border=true"/> </div>
-<div align="center">
-11 · LET'S CONNECT
-<br/> <i> Always open to learning, collaboration and new opportunities. </i>
+## 📊 GitHub Activity
 
-<br/><br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srushtibhalekar&theme=tokyo-night&hide_border=true" />
+</p>
 
-<a href="https://github.com/srushtibhalekar"> <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+---
 
-  
+## 💭 Developer Mindset
 
-<a href="https://bhalekarsrushtiportfolio.netlify.app/"> <img src="https://img.shields.io/badge/Portfolio-View_Work-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a>
+> **"Don't compare your chapter 1 with someone else's chapter 20."**
 
-<br/><br/>
+> **"Small progress every day becomes big progress over time."**
 
-✦ Learn · Build · Improve · Repeat ✦
-<br/>
+---
 
-"Every project is another step toward becoming a better developer."
+## 🤝 Let's Connect
 
-<br/>
+<p align="center">
+  <a href="https://github.com/srushtibhalekar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-Thanks for visiting my profile.
+<p align="center">
+  ⭐ If you find my projects interesting, consider giving them a star!
+</p>
 
-<br/>
+<p align="center">
+  <b>Thanks for visiting my profile! 🌷</b>
+</p>
 
-Java · Spring Boot · PostgreSQL · Backend · Software Development
-
-</div> ```
-└──────────────────────────────────────────────────────────┘
+<p align="center">
+  <i>Learning • Building • Growing 🚀</i>
+</p>
