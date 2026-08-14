@@ -103,18 +103,26 @@
 ---
 
 
-## 📈 My Coding Journey
+## 📊 My Coding Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtibhalekar&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<a href="https://github.com/srushtibhalekar">
+<img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&hide_border=true&count_private=true" width="48%" />
+</a>
+
+<a href="https://github.com/srushtibhalekar">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srushtibhalekar&layout=compact&hide_border=true" width="48%" />
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srushtibhalekar&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/srushtibhalekar?tab=repositories">
+    🚀 Explore My Repositories
+  </a>
 </p>
 
----
 
 ## 🏆 Achievements & Learning
 
