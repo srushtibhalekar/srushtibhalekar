@@ -4,23 +4,6 @@
 
 ### 💻 Software Developer | Java Backend Enthusiast
 
-<p>
-  <a href="https://github.com/srushtibhalekar">
-    <img src="https://img.shields.io/badge/GitHub-Srushti%20Bhalekar-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://bhalekarsrushtiportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=srushtibhalekar&label=Profile%20Views&color=blue&style=flat" />
-</p>
-
-</div>
-
----
-
 ## 🌟 About Me
 
 Hi! I'm **Srushti Bhalekar**, an Information Technology Engineering graduate passionate about **software development and backend engineering**.
@@ -126,34 +109,6 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 
 ---
 
-# 🎓 Education
-
-### Bachelor of Engineering — Information Technology
-
-**Zeal College of Engineering & Research, Pune**
-
-📅 **2022 – 2026**
-
----
-
-# 🏆 Achievements
-
-- 🏅 Participated in **Smart India Hackathon 2025**
-- 📝 Published technical research papers
-- 💻 Participated in college project competitions
-- 🎯 Completed multiple technical & employability training programs
-
----
-
-# 📜 Certifications & Training
-
-- ☕ Java Full Stack Development
-- 🌐 MERN Stack Development Internship
-- ☁️ AWS / Cloud Training
-- 💼 Future Skills Employability Training
-- 🚀 Mahindra Pride Classroom Training
-
----
 
 # 🌐 Portfolio
 
