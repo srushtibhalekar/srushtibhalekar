@@ -4,63 +4,57 @@
 
 ### 💻 Software Developer | Java Backend Enthusiast
 
-## 🌟 About Me
+Building practical applications with Java, backend technologies and databases.
 
-Hi! I'm **Srushti Bhalekar**, an Information Technology Engineering graduate passionate about **software development and backend engineering**.
+<br>
 
-I enjoy building practical applications and working with **Java, Spring Boot, PostgreSQL, JDBC, Servlets, Hibernate, and Microservices**.
+<a href="https://bhalekarsrushtiportfolio.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-6C63FF?style=for-the-badge" />
+</a>
+&nbsp;
+<a href="https://github.com/srushtibhalekar">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github" />
+</a>
 
-- 🎓 B.E. in Information Technology
-- ☕ Java & Backend Development enthusiast
-- 🗄️ PostgreSQL & Database enthusiast
-- 🚀 Interested in building real-world applications
-- 🌱 Continuously learning and improving
-- 💡 Passionate about problem solving and software development
+</div>
 
 ---
 
-## 🧰 Tech Stack
+## 👩‍💻 About Me
 
-### 💻 Languages
+I'm **Srushti Bhalekar**, an **Information Technology Engineering graduate** passionate about software development and backend engineering.
 
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+I enjoy developing practical applications, working with databases, and learning technologies that help me build reliable and scalable software.
+
+- 🎓 B.E. in Information Technology
+- ☕ Focused on **Java & Backend Development**
+- 🗄️ Interested in **Database & Application Development**
+- 🌱 Continuously improving my **Java Full Stack** skills
+- 💡 Interested in problem solving and real-world software development
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+`Java` `C`
 
 ### 🌐 Web Technologies
 
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Servlet-5382A1?style=for-the-badge"/>
-</p>
+`HTML` `CSS` `JSP` `Servlets`
 
 ### ☕ Backend & Frameworks
 
-<p>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microservices-Backend-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-Database-orange?style=for-the-badge"/>
-</p>
+`Spring` `Spring Boot` `Hibernate` `Microservices`
 
-### 🗄️ Database
+### 🗄️ Database & Persistence
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+`PostgreSQL` `JDBC` `JPA`
 
-### 🛠️ Tools
+### 🔧 Tools
 
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-</p>
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `Eclipse`
 
 ---
 
@@ -68,13 +62,13 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 
 ## 🏫 Smart Campus ERP & Placement Ecosystem
 
-> A campus management and placement ecosystem for managing students, academics, administration and placement activities.
+A campus management and placement ecosystem designed to manage student, academic, administrative and placement-related activities.
 
 **Tech Stack**
 
-`Core Java` `Spring Boot` `PostgreSQL` `REST APIs` `JDBC/JPA`
+`Core Java` `Spring Boot` `PostgreSQL` `REST APIs` `JPA`
 
-### ✨ Highlights
+### Key Features
 
 - 👨‍🎓 Student Management
 - 👨‍💼 Admin Management
@@ -89,13 +83,13 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 
 ## 🏦 Banking Management System
 
-> A console-based banking application developed using Core Java, OOP, JDBC and PostgreSQL.
+A console-based banking application developed using Core Java, OOP, JDBC and PostgreSQL.
 
 **Tech Stack**
 
 `Core Java` `OOP` `JDBC` `PostgreSQL`
 
-### ✨ Highlights
+### Key Features
 
 - 📝 Create Account
 - 👥 View All Accounts
@@ -103,22 +97,32 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 - 💸 Withdraw Money
 - 🗑️ Delete Account
 - 🔄 CRUD Operations
-- 🗄️ PostgreSQL Integration
+- 🗄️ PostgreSQL Database Integration
 
 🔗 **[View Project →](https://github.com/srushtibhalekar/Banking-Management-System)**
 
 ---
 
+# 🎓 Education
 
-# 🌐 Portfolio
+### Bachelor of Engineering — Information Technology
+
+**Zeal College of Engineering & Research, Pune**
+
+`2022 – 2026`
+
+---
+
+
+# 🌐 My Portfolio
 
 <div align="center">
 
-### ✨ Explore My Portfolio
+### ✨ Explore My Complete Portfolio
 
 <a href="https://bhalekarsrushtiportfolio.netlify.app/">
 
-<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20VISIT%20MY%20PORTFOLIO-6C63FF?style=for-the-badge&labelColor=111827" />
 
 </a>
 
@@ -130,11 +134,11 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtibhalekar&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=srushtibhalekar&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -145,11 +149,11 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 <div align="center">
 
 <a href="https://github.com/srushtibhalekar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://bhalekarsrushtiportfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
@@ -160,8 +164,8 @@ I enjoy building practical applications and working with **Java, Spring Boot, Po
 
 ### 💙 Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Keep Growing 🚀**
+**Learn • Build • Improve • Repeat 🚀**
 
-⭐ If you find my projects interesting, feel free to explore my repositories!
+⭐ Feel free to explore my repositories.
 
 </div>
