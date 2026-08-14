@@ -1,178 +1,160 @@
-<div align="center">
+# Srushti Bhalekar
 
-# 👋 Hi, I'm Srushti Bhalekar
+### Java Developer | Backend Developer
 
-### 💻 Java Developer | Backend Developer | Software Engineer
+> Information Technology Engineering graduate passionate about Java, backend development, databases, and building practical software solutions.
 
-# 👩‍💻 About Me
-
-Hello! I'm **Srushti Bhalekar**, an **Information Technology Engineering graduate** with a strong interest in **Java development, backend engineering, databases, and software development**.
-
-I enjoy transforming ideas into practical applications and learning through real-world projects.
-
-### 💡 What I Do
-
-- ☕ Develop applications using Java
-- 🏗️ Build backend applications
-- 🗄️ Work with relational databases
-- 🔗 Develop REST APIs and backend services
-- 🧩 Apply Object-Oriented Programming concepts
-- 💡 Solve programming and logical problems
-- 🚀 Build real-world projects
-- 📚 Continuously learn new technologies
+[🌐 Portfolio](https://bhalekarsrushtiportfolio.netlify.app/) • [💻 GitHub](https://github.com/srushtibhalekar)
 
 ---
 
-# 🛠️ Technical Skills
+## About Me
 
-## 💻 Programming Languages
+I'm **Srushti Bhalekar**, an Information Technology Engineering graduate interested in **Java development, backend engineering, and database-driven applications**.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+I enjoy building practical projects that solve real-world problems and continuously improving my technical skills through hands-on development.
 
-**Core Concepts:**  
-`OOP` `Inheritance` `Polymorphism` `Abstraction` `Encapsulation` `Exception Handling` `Collections` `Multithreading`
+My primary focus is on **Java backend development**, with an interest in building scalable applications and understanding the complete software development lifecycle.
 
 ---
 
-## 🌐 Web Technologies
+## Technical Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-000000?style=for-the-badge)
-![Servlets](https://img.shields.io/badge/Servlets-5382A1?style=for-the-badge)
+### Programming Languages
 
----
+**Java** • **C**
 
-## ☕ Backend & Frameworks
+### Web Technologies
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-Backend-4B8BBE?style=for-the-badge)
+**HTML** • **CSS** • **JSP** • **Servlets**
 
-**Backend Technologies:**  
-`JDBC` `JPA` `REST APIs` `CRUD Operations`
+### Backend & Frameworks
 
----
+**Spring** • **Spring Boot** • **Hibernate** • **Microservices**
 
-## 🗄️ Database
+### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**PostgreSQL**
 
-**Database Skills:**  
-`SQL` `Database Design` `CRUD Operations` `Joins` `Constraints`
+### Database Technologies
+
+**JDBC** • **JPA** • **SQL**
+
+### Tools
+
+**Git** • **GitHub** • **VS Code** • **IntelliJ IDEA** • **Eclipse**
 
 ---
 
-## 🔧 Development Tools
+# Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+## 01. Smart Campus ERP & Placement Ecosystem
 
----
+A campus management and placement ecosystem designed to manage **student, academic, administrative, and placement-related activities**.
 
-# 🚀 Featured Projects
+### Key Features
 
-## 🏫 Smart Campus ERP & Placement Ecosystem
+- Student management
+- Admin management
+- Academic data management
+- Placement management
+- REST API integration
+- Database integration
+- CRUD operations
+- Backend data management
 
-A campus management and placement ecosystem designed to manage student, academic, administrative, and placement-related activities.
-
-### ✨ Key Features
-
-- 👨‍🎓 Student Management
-- 👨‍💼 Admin Management
-- 📚 Academic Data Management
-- 💼 Placement Management
-- 🔗 REST API Integration
-- 🗄️ PostgreSQL Database Integration
-- 🔄 CRUD Operations
-- 🔐 Backend Data Management
-
-### 🛠️ Technology Stack
+### Technology Stack
 
 `Core Java` `Spring Boot` `PostgreSQL` `REST APIs` `JPA`
 
-### 🔗 Project
+### Project
 
-👉 **[View Smart Campus Project →](YOUR-SMART-CAMPUS-GITHUB-LINK)**
+**[View Smart Campus Project →](YOUR-SMART-CAMPUS-GITHUB-LINK)**
 
 ---
 
-## 🏦 Banking Management System
+## 02. Banking Management System
 
-A Java-based banking management application developed to perform essential banking operations with PostgreSQL database integration.
+A Java-based banking management application developed to perform essential banking operations with **PostgreSQL database integration**.
 
-### ✨ Key Features
+### Key Features
 
-- 📝 Create Account
-- 👥 View All Accounts
-- 💰 Deposit Money
-- 💸 Withdraw Money
-- 🗑️ Delete Account
-- 🔄 CRUD Operations
-- 🗄️ PostgreSQL Database Integration
-- 🔗 JDBC Connectivity
+- Create account
+- View all accounts
+- Deposit money
+- Withdraw money
+- Delete account
+- CRUD operations
+- PostgreSQL database connectivity
+- JDBC integration
 
-### 🛠️ Technology Stack
+### Technology Stack
 
 `Core Java` `OOP` `JDBC` `PostgreSQL`
 
-### 🔗 Project
+### Project
 
-👉 **[View Banking Management System →](https://github.com/srushtibhalekar/Banking-Management-System)**
+**[View Banking Management System →](https://github.com/srushtibhalekar/Banking-Management-System)**
 
 ---
 
-# 📚 Java Development Journey
+# Education
 
-```text
-                         JAVA DEVELOPMENT
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │  Core Java  │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │     OOP     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │    JDBC     │
-                         └──────┬──────┘
-                                │
-                                ▼
-                      ┌──────────────────┐
-                      │  Servlets & JSP  │
-                      └────────┬─────────┘
-                               │
-                               ▼
-                         ┌─────────────┐
-                         │    Spring   │
-                         └──────┬──────┘
-                                │
-                                ▼
-                       ┌────────────────┐
-                       │  Spring Boot   │
-                       └───────┬────────┘
-                               │
-                               ▼
-                         ┌─────────────┐
-                         │  Hibernate  │
-                         └──────┬──────┘
-                                │
-                                ▼
-                         ┌─────────────┐
-                         │  REST APIs  │
-                         └──────┬──────┘
-                                │
-                                ▼
-                       ┌────────────────┐
-                       │  Microservices │
-                       └────────────────┘
+### Bachelor of Engineering — Information Technology
+
+**Zeal College of Engineering & Research, Pune**
+
+**2022 – 2026**
+
+---
+
+# Experience & Training
+
+### MERN Stack Developer Intern — Edunet Foundation
+
+Completed an internship focused on web development and application development.
+
+### Java Full Stack Development Training
+
+Developed knowledge of Java programming, backend development, databases, and full-stack development concepts.
+
+---
+
+# Certifications & Achievements
+
+- Smart India Hackathon 2025 — Participant
+- Java Full Stack Development Training
+- MERN Stack Development Internship
+- AWS / Cloud Training
+- Future Skills Employability Training
+- Mahindra Pride Classroom Training
+- Published technical research papers
+- Participated in college project competitions
+
+---
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building, and connecting with people who are passionate about technology and software development.
+
+<p align="center">
+  <a href="https://github.com/srushtibhalekar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://bhalekarsrushtiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**Learn • Build • Grow • Repeat 🚀**
+
+⭐ Feel free to explore my repositories and projects.
+
+</div>
