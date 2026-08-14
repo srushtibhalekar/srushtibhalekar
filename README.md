@@ -1,119 +1,212 @@
+<div align="center">
+
 # 👋 Hi, I'm Srushti Bhalekar
 
-### 💻  Java Developer | Backend & Database Enthusiast
-🎓 B.E. in Information Technology Graduate 
-📍 Pune, India  
-🚀 Building practical applications with **Java, PostgreSQL & Spring Boot**  
-📚 Currently strengthening **DSA, Java, JDBC & Backend Development**
+### 💻 Software Developer | Java Backend Enthusiast
+
+<p>
+  <a href="https://github.com/srushtibhalekar">
+    <img src="https://img.shields.io/badge/GitHub-Srushti%20Bhalekar-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://bhalekarsrushtiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=srushtibhalekar&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 🌟 About Me
 
-I'm an aspiring **Java Developer** interested in backend development,
-database management, and building practical software applications.
+Hi! I'm **Srushti Bhalekar**, an Information Technology Engineering graduate passionate about **software development and backend engineering**.
 
-I enjoy working with **Core Java, Object-Oriented Programming, JDBC,
-PostgreSQL and Spring Boot**, while continuously improving my problem-solving
-and software development skills.
+I enjoy building practical applications and working with **Java, Spring Boot, PostgreSQL, JDBC, Servlets, Hibernate, and Microservices**.
 
-🎯 **Career Goal:** Java Developer / Software Developer
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-
-### 🔧 Backend & Database
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+- 🎓 B.E. in Information Technology
+- ☕ Java & Backend Development enthusiast
+- 🗄️ PostgreSQL & Database enthusiast
+- 🚀 Interested in building real-world applications
+- 🌱 Continuously learning and improving
+- 💡 Passionate about problem solving and software development
 
 ---
 
-## 🚀 Featured Projects
+## 🧰 Tech Stack
 
-### 🏫 Smart Campus ERP & Placement Ecosystem
+### 💻 Languages
 
-**Java • Spring Boot • JDBC • PostgreSQL**
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
-A campus management system focused on managing student, academic and
-placement-related information.
+### 🌐 Web Technologies
 
-**Highlights:**
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Servlet-5382A1?style=for-the-badge"/>
+</p>
+
+### ☕ Backend & Frameworks
+
+<p>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-Backend-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-Database-orange?style=for-the-badge"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏫 Smart Campus ERP & Placement Ecosystem
+
+> A campus management and placement ecosystem for managing students, academics, administration and placement activities.
+
+**Tech Stack**
+
+`Core Java` `Spring Boot` `PostgreSQL` `REST APIs` `JDBC/JPA`
+
+### ✨ Highlights
 
 - 👨‍🎓 Student Management
-- 🏢 Placement Management
-- 📊 Academic Information Management
+- 👨‍💼 Admin Management
+- 📚 Academic Management
+- 💼 Placement Management
+- 🔗 REST API Integration
 - 🗄️ PostgreSQL Database Integration
-- 🔌 JDBC Connectivity
-- ⚙️ Backend Development
 
-🔗 [**View Project →**](https://github.com/srushtibhalekar/smart-campus-ai)
+🔗 **[View Project →](YOUR-SMART-CAMPUS-GITHUB-LINK)**
 
 ---
 
-### 👨‍💼 Employee Management System
+## 🏦 Banking Management System
 
-**Core Java • OOP • JDBC • PostgreSQL**
+> A console-based banking application developed using Core Java, OOP, JDBC and PostgreSQL.
 
-A database-driven Java application developed to practice Object-Oriented
-Programming, JDBC and PostgreSQL database operations.
+**Tech Stack**
 
-**Highlights:**
+`Core Java` `OOP` `JDBC` `PostgreSQL`
 
-- ➕ Add Employees
-- 🔍 Search Employees
-- ✏️ Update Employee Information
-- 🗑️ Delete Employees
-- 🗄️ PostgreSQL Database Integration
-- 🔌 JDBC Connectivity
+### ✨ Highlights
 
-🔗 **View Project →**
+- 📝 Create Account
+- 👥 View All Accounts
+- 💰 Deposit Money
+- 💸 Withdraw Money
+- 🗑️ Delete Account
+- 🔄 CRUD Operations
+- 🗄️ PostgreSQL Integration
 
----
-
-### 🛒 Campus Network Auction System
-
-**MERN Stack**
-
-An online campus auction application developed for listing products and
-managing auction-related activities.
-
-**Highlights:**
-
-- 👤 User Management
-- 🛍️ Product Listing
-- 💰 Auction Functionality
-- 🔐 Authentication
-- 🗄️ Database Integration
-
-🔗 **View Project →**
+🔗 **[View Project →](https://github.com/srushtibhalekar/Banking-Management-System)**
 
 ---
 
+# 🎓 Education
 
+### Bachelor of Engineering — Information Technology
 
-## 🤝 Let's Connect
+**Zeal College of Engineering & Research, Pune**
 
-💼 **LinkedIn:** [Connect with me →](https://www.linkedin.com/in/srushti-bhalekar-6973882b8/)
-
-🐙 **GitHub:** [Explore my repositories →](https://github.com/srushtibhalekar)
+📅 **2022 – 2026**
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+# 🏆 Achievements
 
-**Learn • Build • Improve • Repeat 🚀**
+- 🏅 Participated in **Smart India Hackathon 2025**
+- 📝 Published technical research papers
+- 💻 Participated in college project competitions
+- 🎯 Completed multiple technical & employability training programs
+
+---
+
+# 📜 Certifications & Training
+
+- ☕ Java Full Stack Development
+- 🌐 MERN Stack Development Internship
+- ☁️ AWS / Cloud Training
+- 💼 Future Skills Employability Training
+- 🚀 Mahindra Pride Classroom Training
+
+---
+
+# 🌐 Portfolio
+
+<div align="center">
+
+### ✨ Explore My Portfolio
+
+<a href="https://bhalekarsrushtiportfolio.netlify.app/">
+
+<img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-6C63FF?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=srushtibhalekar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=srushtibhalekar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/srushtibhalekar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bhalekarsrushtiportfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+⭐ If you find my projects interesting, feel free to explore my repositories!
+
+</div>
