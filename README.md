@@ -102,33 +102,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Java
- ├── Core Java
- ├── OOP
- ├── Collections
- ├── Exception Handling
- ├── File Handling
- ├── Multithreading
- └── Advanced Java
-      ├── JDBC
-      ├── Servlets
-      └── JSP
-
-Database
- └── PostgreSQL
-
-Web
- ├── HTML
- └── CSS
-
-Problem Solving
- └── Data Structures & Algorithms
-```
-
----
 
 ## 📈 My Coding Journey
 
@@ -161,18 +134,6 @@ Problem Solving
 
 ---
 
-## 🎯 2026 Goals
-
-* [x] Complete Bachelor of Engineering
-* [ ] Strengthen Advanced Java
-* [ ] Master JDBC & Servlets
-* [ ] Build more Java + PostgreSQL projects
-* [ ] Improve DSA & problem-solving
-* [ ] Contribute to Open Source
-* [ ] Build a strong GitHub portfolio
-* [ ] Become a confident Java Developer
-
----
 
 ## 📊 GitHub Activity
 
