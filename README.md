@@ -2,6 +2,10 @@
 
 ### 💻 Aspiring Java Developer | Backend & Database Enthusiast
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Aspiring+Java+Developer;Backend+Development+Enthusiast;Building+Projects+with+Java+%26+PostgreSQL;Learning+%7C+Building+%7C+Improving" />
+</p>
+
 
 
 <p align="center">
